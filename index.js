@@ -1,6 +1,6 @@
 function add(a,b) {
   a + b
 }
-function (a,b){
+function subtract(a,b){
   a - b
 }
