@@ -1,3 +1,6 @@
 function add(a,b) {
-  3 + 4
+  a + b
+}
+function (a,b){
+  a - b
 }
